@@ -1,0 +1,6 @@
+Female Swift cgcatgtgactcgaaacccgg
+Male Deep cgccgtgagaataggggtgcatcggctctacgcggaatgcggtaagatattacccggcgctagtcggcagatatgagacccccaatgggcagaaaccca
+Male Jackson ggtcgtcggatcaggtatcacccggcatgcagtgtgcacacctttgttatgcgatta
+Female Dany cgcatgtgactcgaaacccgg
+Male Jack cgcatgtgactcgaaacccgg
+Male Mike cgcatgtgactcgaaacccggcgcatgtgactcgaaacccgg
